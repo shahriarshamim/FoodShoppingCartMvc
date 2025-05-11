@@ -1,351 +1,355 @@
 {
   "Files": [
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodShoppingCartMvc.bundle.scp.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodShoppingCartMvc.bundle.scp.css",
       "PackagePath": "staticwebassets\\FoodShoppingCartMvc.opo104lzvf.bundle.scp.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\0ada04b1-a69c-4939-b558-71ea89f1a6f4.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\0ada04b1-a69c-4939-b558-71ea89f1a6f4.jpg",
       "PackagePath": "staticwebassets\\images\\0ada04b1-a69c-4939-b558-71ea89f1a6f4.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\1a268dfa-03ec-4a51-a80b-c306904f8067.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\1a268dfa-03ec-4a51-a80b-c306904f8067.jpeg",
       "PackagePath": "staticwebassets\\images\\1a268dfa-03ec-4a51-a80b-c306904f8067.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\1a46f355-be20-4ce5-86ec-ebc430452126.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\1a46f355-be20-4ce5-86ec-ebc430452126.jpg",
       "PackagePath": "staticwebassets\\images\\1a46f355-be20-4ce5-86ec-ebc430452126.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\36ddf499-bd44-4371-8d8b-31c40266952a.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\36ddf499-bd44-4371-8d8b-31c40266952a.jpeg",
       "PackagePath": "staticwebassets\\images\\36ddf499-bd44-4371-8d8b-31c40266952a.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\3d63cc1f-43fb-4e2a-9295-e76ddb66da90.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\3d63cc1f-43fb-4e2a-9295-e76ddb66da90.jpeg",
       "PackagePath": "staticwebassets\\images\\3d63cc1f-43fb-4e2a-9295-e76ddb66da90.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4931ddfa-90ad-4ce5-b93c-4c985c26e8fd.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4931ddfa-90ad-4ce5-b93c-4c985c26e8fd.jpeg",
       "PackagePath": "staticwebassets\\images\\4931ddfa-90ad-4ce5-b93c-4c985c26e8fd.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4c8bccef-e8d4-4fd3-9039-44667a5715db.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4c8bccef-e8d4-4fd3-9039-44667a5715db.jpeg",
       "PackagePath": "staticwebassets\\images\\4c8bccef-e8d4-4fd3-9039-44667a5715db.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4ebde358-b10f-4a00-abdc-7a3fa6a89390.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\4ebde358-b10f-4a00-abdc-7a3fa6a89390.jpg",
       "PackagePath": "staticwebassets\\images\\4ebde358-b10f-4a00-abdc-7a3fa6a89390.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\56cfc9f2-f9a2-45e2-98e1-413d45754a42.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\56cfc9f2-f9a2-45e2-98e1-413d45754a42.jpeg",
       "PackagePath": "staticwebassets\\images\\56cfc9f2-f9a2-45e2-98e1-413d45754a42.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\6370f176-334b-48e6-acfb-d77f1bdaa098.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\6370f176-334b-48e6-acfb-d77f1bdaa098.jpeg",
       "PackagePath": "staticwebassets\\images\\6370f176-334b-48e6-acfb-d77f1bdaa098.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\64365d8e-5a44-47c4-a032-5d4bb5a9e7ed.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\64365d8e-5a44-47c4-a032-5d4bb5a9e7ed.jpg",
       "PackagePath": "staticwebassets\\images\\64365d8e-5a44-47c4-a032-5d4bb5a9e7ed.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\70b9e5e5-836a-4f49-9aaa-26a392b0b155.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\70b9e5e5-836a-4f49-9aaa-26a392b0b155.jpg",
       "PackagePath": "staticwebassets\\images\\70b9e5e5-836a-4f49-9aaa-26a392b0b155.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\814d7c15-2f12-426c-93f2-452f684ede4d.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\814d7c15-2f12-426c-93f2-452f684ede4d.jpeg",
       "PackagePath": "staticwebassets\\images\\814d7c15-2f12-426c-93f2-452f684ede4d.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9989631c-ae14-4d21-bf87-ec3f1d0e4e28.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\8fea5a25-efae-493d-ad0a-1c26368cdfde.jpeg",
+      "PackagePath": "staticwebassets\\images\\8fea5a25-efae-493d-ad0a-1c26368cdfde.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9989631c-ae14-4d21-bf87-ec3f1d0e4e28.jpg",
       "PackagePath": "staticwebassets\\images\\9989631c-ae14-4d21-bf87-ec3f1d0e4e28.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9ba929ac-5dcb-468e-af47-356efe0275f5.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9ba929ac-5dcb-468e-af47-356efe0275f5.jpg",
       "PackagePath": "staticwebassets\\images\\9ba929ac-5dcb-468e-af47-356efe0275f5.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9d7b5d9a-0357-4786-a60a-f3056f80e75b.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\9d7b5d9a-0357-4786-a60a-f3056f80e75b.jpeg",
       "PackagePath": "staticwebassets\\images\\9d7b5d9a-0357-4786-a60a-f3056f80e75b.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\NoImage.png",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\NoImage.png",
       "PackagePath": "staticwebassets\\images\\NoImage.png"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\b63a635e-8dce-45a2-b9cb-3373ea30c63f.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\b63a635e-8dce-45a2-b9cb-3373ea30c63f.jpeg",
       "PackagePath": "staticwebassets\\images\\b63a635e-8dce-45a2-b9cb-3373ea30c63f.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\c21c678d-5e42-4f01-bd7d-4e94132c0a1c.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\c21c678d-5e42-4f01-bd7d-4e94132c0a1c.jpeg",
       "PackagePath": "staticwebassets\\images\\c21c678d-5e42-4f01-bd7d-4e94132c0a1c.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\c77841ab-6d06-4d4f-8335-12b4286af9df.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\c77841ab-6d06-4d4f-8335-12b4286af9df.jpg",
       "PackagePath": "staticwebassets\\images\\c77841ab-6d06-4d4f-8335-12b4286af9df.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\cd4cf055-fb1e-4329-ad57-df3260faf659.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\cd4cf055-fb1e-4329-ad57-df3260faf659.jpeg",
       "PackagePath": "staticwebassets\\images\\cd4cf055-fb1e-4329-ad57-df3260faf659.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\db29ac82-a7e8-4a76-832f-156e39fee5dd.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\db29ac82-a7e8-4a76-832f-156e39fee5dd.jpeg",
       "PackagePath": "staticwebassets\\images\\db29ac82-a7e8-4a76-832f-156e39fee5dd.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\e4df5697-9ec2-463e-8390-3d6224177778.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\e4df5697-9ec2-463e-8390-3d6224177778.jpeg",
       "PackagePath": "staticwebassets\\images\\e4df5697-9ec2-463e-8390-3d6224177778.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\e6eeabb0-3d70-41cf-85dd-adb7879344d7.jpg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\e6eeabb0-3d70-41cf-85dd-adb7879344d7.jpg",
       "PackagePath": "staticwebassets\\images\\e6eeabb0-3d70-41cf-85dd-adb7879344d7.jpg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\edfae8e4-b795-452f-94c8-cb25bb1f9173.jpeg",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\images\\edfae8e4-b795-452f-94c8-cb25bb1f9173.jpeg",
       "PackagePath": "staticwebassets\\images\\edfae8e4-b795-452f-94c8-cb25bb1f9173.jpeg"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

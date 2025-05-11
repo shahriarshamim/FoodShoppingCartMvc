@@ -8483,11 +8483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\FoodShoppingCartMvc.csproj",
+      "projectUniqueName": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\FoodShoppingCartMvc.csproj",
       "projectName": "FoodShoppingCartMvc",
-      "projectPath": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\FoodShoppingCartMvc.csproj",
+      "projectPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\FoodShoppingCartMvc.csproj",
       "packagesPath": "C:\\Users\\shahr\\.nuget\\packages\\",
-      "outputPath": "H:\\ASP_Project\\Shoppind_Cart\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\obj\\",
+      "outputPath": "C:\\Users\\shahr\\OneDrive\\Desktop\\FoodShoppingCartMvc\\FoodShoppingCartMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
