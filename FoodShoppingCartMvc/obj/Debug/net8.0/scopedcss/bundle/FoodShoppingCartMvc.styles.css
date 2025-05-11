@@ -1,0 +1,140 @@
+/* _content/FoodShoppingCartMvc/Views/Shared/_AdminLayout.cshtml.rz.scp.css */
+body[b-x35e03g6af] {
+    padding: 0;
+    margin: 0;
+}
+
+*[b-x35e03g6af] {
+    scrollbar-width: thin;
+    scrollbar-color: #486888 #f1f1f1;
+}
+
+    *[b-x35e03g6af]::-webkit-scrollbar {
+        width: 12px; /* Width of the scrollbar */
+    }
+
+    *[b-x35e03g6af]::-webkit-scrollbar-track {
+        background: #f1f1f1; /* Color of the track */
+    }
+
+    *[b-x35e03g6af]::-webkit-scrollbar-thumb {
+        background: #486888; /* Color of the thumb */
+        border-radius: 20px; /* Rounded corners of the thumb */
+    }
+
+        *[b-x35e03g6af]::-webkit-scrollbar-thumb:hover {
+            background: #486888; /* Color of the thumb on hover */
+        }
+
+.main-contaier[b-x35e03g6af] {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav[b-x35e03g6af] {
+    height: 100%;
+    width: 250px;
+    background-color: #2c3e50;
+    padding-top: 15px;
+}
+
+.navigation-link[b-x35e03g6af] {
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+    display: block;
+}
+
+.sidenav a:hover[b-x35e03g6af] {
+    background-color: #476584;
+    color: #ffffff !important;
+}
+
+.sidenav a[b-x35e03g6af] {
+    padding: 10px 15px;
+}
+
+.right-panel[b-x35e03g6af] {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.nav-bar[b-x35e03g6af] {
+    background-color: #486888;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-actions[b-x35e03g6af] {
+    display: flex;
+    gap: 5px;
+}
+
+    .nav-actions button[b-x35e03g6af] {
+        border: none;
+        background: none;
+    }
+
+        .nav-actions a:hover[b-x35e03g6af],
+        .nav-actions button:hover[b-x35e03g6af] {
+            color: rgb(241, 241, 241);
+        }
+
+.content[b-x35e03g6af] {
+    padding: 20px;
+}
+/* _content/FoodShoppingCartMvc/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-pc80idclxb] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-pc80idclxb] {
+  color: #0077cc;
+}
+
+.btn-primary[b-pc80idclxb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-pc80idclxb], .nav-pills .show > .nav-link[b-pc80idclxb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-pc80idclxb] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-pc80idclxb] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-pc80idclxb] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-pc80idclxb] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-pc80idclxb] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

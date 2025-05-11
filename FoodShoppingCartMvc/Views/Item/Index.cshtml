@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Item>
+@{
+    Layout = "_AdminLayout";
+}
+
+<h2>Products</h2>
+
+<a asp-action="AddItem" asp-controller="Item" class="btn btn-primary">Add More</a>
+
+@if (Model?.Count() > 0)
+{
+    <table class="table table-striped my-2">
+        <tr>
+            <th>Image</th>
+            <th>Item</th>
+            <th>Weight</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @if (string.IsNullOrWhiteSpace(item.Image))
+                    {
+                        <img src="/Images/NoImage.png" style="width:80px;height:100px" alt="item image" />
+                    }
+                    else
+                    {
+                        <img src="/images/@item.Image" style="width:80px;height:100px" alt="item image" />
+                    }
+                </td>
+                <td>@item.ItemName</td>
+                <td>@item.Weight</td>
+                <td>@item.Category.CategoryName</td>
+                <td>@item.Price TK</td>
+                <td>
+                    <a asp-action="UpdateItem" asp-controller="Item" asp-route-id="@item.Id" class="btn btn-success">Edit</a>
+                    <a asp-action="DeleteItem" asp-controller="Item" asp-route-id="@item.Id" class="btn btn-danger" onclick="return window.confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h3>No records</h3>
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+            <nav>
+                <ul class="pagination justify-content-end">
+                    <li class="page-item">
+                        @if (ViewBag.Page > 0)
+
+                        {
+                            <a href="@Url.Action("Index", new { page = ViewBag.Page - 1 })"
+                               class="page-link text-black">
+                                &laquo; Prev
+                            </a>
+                        }
+                    </li>
+
+                    <li class="page-item">
+                        @if (ViewBag.Page < ViewBag.MaxPage)
+
+
+
+                        {
+                            <a href="@Url.Action("Index", new { page = ViewBag.Page + 1 })"
+                               class="page-link text-black">
+                                Next &raquo;
+                            </a>
+                        }
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
