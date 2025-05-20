@@ -1161,12 +1161,6 @@ C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debu
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets\msbuild.FoodShoppingCartMvc.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets\msbuild.FoodShoppingCartMvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodShoppingCartMvc.props
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodShoppingCartMvc.props
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodShoppingCartMvc.props
-C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\FoodShop.DEABBE30.Up2Date
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\FoodShoppingCartMvc.dll
@@ -1174,3 +1168,4 @@ C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debu
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\FoodShoppingCartMvc.pdb
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\FoodShoppingCartMvc.genruntimeconfig.cache
 C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\ref\FoodShoppingCartMvc.dll
+C:\Users\shahr\OneDrive\Desktop\FoodShoppingCartMvc\FoodShoppingCartMvc\obj\Debug\net8.0\staticwebassets.build.json.cache
